@@ -1,0 +1,9 @@
+[Unit]
+Description=Run WireGuard monitor every minute
+
+[Timer]
+OnUnitActiveSec=60
+AccuracySec=1s
+
+[Install]
+WantedBy=timers.target

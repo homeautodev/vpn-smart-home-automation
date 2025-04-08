@@ -1,0 +1,6 @@
+[Unit]
+Description=Monitor and Auto-Restart WireGuard
+After=network.target
+
+[Service]
+ExecStart=/opt/wg-monitor.sh
