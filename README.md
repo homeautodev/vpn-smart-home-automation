@@ -15,7 +15,7 @@ Secure, monitorable remote access to your smart home using **WireGuard**, system
 
 ## 📐 Architecture
 
-![VPN Architecture](docs/vpn-architecture.png)
+![VPN Architecture](docs/vpn-architecture.jpg)
 
 ---
 
